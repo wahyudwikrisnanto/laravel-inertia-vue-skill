@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel Inertia Vue Clean Minimalist"
+  short_description: "Build and refactor Laravel + Inertia + Vue apps with usability-first UX, minimalist or informative UI, contract-safe backend/frontend changes, pnpm consistency, and security best practices."
+  default_prompt: "Implement Laravel + Inertia + Vue features using TypeScript with either minimalist or highly informative UI patterns, prioritize usability and UX best practices over visual-only polish, keep backend/frontend contracts synchronized, enforce pnpm package consistency, apply backend clean architecture (FormRequest, ApiResource, strict types, services + DTOs), and follow Laravel/Vue security best practices."
